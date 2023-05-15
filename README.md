@@ -14,6 +14,9 @@ Mifflin-St Jeor Equation:
 BMR = 10W + 6.25H - 5A + 5
 
 where:
+
 W is body weight in kg
+
 H is body height in cm
+
 A is age
