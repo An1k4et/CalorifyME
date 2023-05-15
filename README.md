@@ -20,3 +20,18 @@ W is body weight in kg
 H is body height in cm
 
 A is age
+
+## Screenshots
+
+![App Screenshot](https://github.com/An1k4et/CalorifyME/blob/main/Capture4.JPG?raw=true)
+
+
+CalorifyMe website delivers many features like:
+
+•	User interface to display results to the user.
+
+•	Provide Calorie combines counting with health eating
+
+•	Helps you balance your total calories and macronutrients throughout the day.
+
+
